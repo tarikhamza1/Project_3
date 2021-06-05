@@ -67,6 +67,12 @@ Definitions:
 
 ![Step 8 - Buyer initiates Purchase Contract](https://user-images.githubusercontent.com/74984280/120895284-3e1c6700-c5ea-11eb-8ddf-68e55ac44126.png)
 
+# Metamask Confirmation
+
+![Metamask confirmation 1](https://user-images.githubusercontent.com/74984280/120895599-bc2d3d80-c5eb-11eb-983a-cf88bbd07598.png)
+
+![Metamask Confirmation 2](https://user-images.githubusercontent.com/74984280/120895601-bd5e6a80-c5eb-11eb-8707-ba23b2620065.png)
+
 
 # Confirmation
 
