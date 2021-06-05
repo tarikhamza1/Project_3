@@ -1,6 +1,6 @@
 # Project 3 - Real Estate Contract Using Solidity
 
-For our 3rd projects we decided to take a look at an industry that hasn't seen any real technological advancements in years - Real Estate. Using Solidity we built a Real Estate contract that would provide both the buyer and seller with an efficient and secure way to transact. Our idea came from the fact that fees associated to Real Estate transactions are very high and the process is inefficient. We believe that using Blockchain and Solidity would allow for a more transparent, faster, and cheaper alternative.
+For our 3rd project we decided to take a look at an industry that hasn't seen any real technological advancements in years - Real Estate. Using Solidity we built a Real Estate contract that would provide both the buyer and seller with an efficient and secure way to transact. Our idea came from the fact that fees associated to Real Estate transactions are very high and the process is inefficient. We believe that using Blockchain and Solidity would allow for a more transparent, faster, and cheaper alternative.
 
 ## DEPLOYMENT CODE
 
